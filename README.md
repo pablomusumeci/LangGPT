@@ -3,6 +3,8 @@ Welcome to LangGPT, a friendly AI-powered language tutor designed to help you le
 
 **GPT-4** is recommended for an enhanced learning experience.
 
+![intro](intro.png)
+
 # Getting started 🚀
 To begin using LangGPT, simply copy the content of the [LangGPT.txt](LangGPT.txt?raw=1) in this repository and paste it into a new ChatGPT session. 
 
@@ -23,6 +25,8 @@ Once you've completed the initial setup, you'll have access to a range of helpfu
 - To take a quiz on a topic: `/quiz vocabulary`
 - To have a conversation in the target language: `/conversation`
 - To learn a new word of the day: `/day`
+
+![example](example.png)
 
 # Guidelines 🌈
 
