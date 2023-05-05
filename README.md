@@ -36,3 +36,5 @@ LangGPT is designed to be a friendly and helpful tutor. It aims to provide a pos
 Feel free to clone this repository, open a pull-request or reaching out to me on [pablomusumeci.com](https://pablomusumeci.com) with feedback on how we can improve LangGPT!
 
 Happy learning! 🌍💡
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/pablon)
